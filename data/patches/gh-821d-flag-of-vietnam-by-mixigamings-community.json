@@ -1,0 +1,66 @@
+{
+	"id": 1405,
+	"name": "Flag of Vietnam by MixiGaming's community",
+	"description": "Vietnam, a land in Southeast Asia,\nWhere beauty and history intertwine with grace.\nIts flag, a symbol bold and true,\nA red backdrop adorned with a yellow star, shining through.\n\nIn the azure seas, lie Truong Sa and Hoang Sa,\nThe precious islands of Vietnam, a jewel by far.\nAnd amidst the waves, a sight to behold,\nThe vigilant border soldiers, guardians bold.\n\nTheir duty, to protect the seas and shore,\nWith valor and honor, they stand and explore.\nVietnam's flag and map, a tale of pride,\nA nation's spirit soaring high and wide.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Vietnam",
+			"https://en.wikipedia.org/wiki/Flag_of_Vietnam",
+			"https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99_Mixi"
+		],
+		"subreddit": [
+			"VietNam"
+		],
+		"discord": [
+			"mixigaming"
+		]
+	},
+	"path": {
+		"150-152": [
+			[
+				873,
+				442
+			],
+			[
+				873,
+				500
+			],
+			[
+				1000,
+				500
+			],
+			[
+				1000,
+				442
+			]
+		],
+		"153-171": [
+			[
+				873,
+				442
+			],
+			[
+				873,
+				780
+			],
+			[
+				1000,
+				780
+			],
+			[
+				1000,
+				442
+			]
+		]
+	},
+	"center": {
+		"150-152": [
+			937,
+			471
+		],
+		"153-171": [
+			937,
+			611
+		]
+	}
+}
